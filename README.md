@@ -4,7 +4,7 @@
 
 <h3 align="center">Full Stack Developer || Web3 Enthusiast || Student </h3>
 
-- 🔭 I’m currently working on **my blog**. You can check it out <a href="https://bloggy-viraj-s15.vercel.app">here</a>
+- 🎓 I am a sophomore VIT Vellore
 
 - 🌱 I’m currently learning **Next js**
 
