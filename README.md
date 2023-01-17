@@ -2,13 +2,19 @@
 
 <h1 align="center">Hey there, I'm Anjaneya</h1>
 
-<h3 align="center">Full Stack Developer || Web3 Enthusiast || Student </h3>
+<!-- <h3 align="center">Full Stack Developer || Web3 Enthusiast || Student </h3> -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;|Web3%20|%20DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
-- 🎓 I am a sophomore VIT Vellore
-
-- 🌱 I’m currently learning **Next js**
-
-- 👯 I’m looking to collaborate on **anything that involves web development**
+```
+anjy7@github
+-------------------------
+🎓 I am a sophomore VIT Vellore
+💻 I am a self taught Full Stack Developer
+📝 I have a strong interest in Web3 and Artificial Intelligence
+👯 I’m looking to collaborate on **anything that involves web development
+```
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=anjy7&label=Profile%20views&color=6805D3&style=flat" alt="ShivamGarg" /> </p></h3>
    <div align="center">
@@ -17,13 +23,13 @@
 <h1>Technical Skills 🛠</h1>
 
 <p align="center"> 
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
- <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
+    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -54,20 +60,29 @@
 
 </div>
 
-<table>
+## Github Stats
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+   <table>
   <tr>
+     <td><img src="https://github-readme-stats.vercel.app/api?username=anjy7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="anjy7" />
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=anjy7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="anjy7" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anjy7&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="anjy7" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=anjy7&theme=material-palenight" alt="anjy7" /></td>
+
+   
   </tr>
 </table>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjy7&theme=dark" alt="anjy7" /></p>
-  </div>
 
- [![anjy7's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anjy7&theme=xcode)](https://git.io/anjy7)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+    
+<!-- 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+ -->
 
 
- <a href="https://github.com/anjy7?tab=followers"><img src="https://img.shields.io/github/followers/anjy7?label=Followers&style=social" alt="GitHub Badge" align="center"></a>
 
