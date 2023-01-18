@@ -12,8 +12,8 @@ anjy7@github
 -------------------------
 🎓 I am a sophomore VIT Vellore
 💻 I am a self taught Full Stack Developer
-📝 I have a strong interest in Web3 and Artificial Intelligence
-👯 I’m looking to collaborate on **anything that involves web development
+📝 I have a strong interest in Web3 and AI/ML
+👯 I’m looking to collaborate on anything that involves web development
 ```
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=anjy7&label=Profile%20views&color=6805D3&style=flat" alt="ShivamGarg" /> </p></h3>
