@@ -10,7 +10,7 @@
 ```
 anjy7@github
 -------------------------
-🎓 I am a sophomore VIT Vellore
+🎓 I am pursuing Btech in Computer Science
 💻 I am a self taught Full Stack Developer
 📝 I have a strong interest in Web3 and AI/ML
 👯 I’m looking to collaborate on anything that involves web development
