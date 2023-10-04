@@ -1,6 +1,6 @@
 <!--   ![header_](https://user-images.githubusercontent.com/92802904/190911228-459d8af8-4d8a-403f-a5a6-c4e5422f5e5a.png) -->
 
-<h1 align="center">Hey there!</h1>
+<h2 align="color:white">Hey there!</h2>
 
 
 
@@ -14,7 +14,7 @@ anjy7@github
 - 🎓 I’m pursuing Btech in Computer Science
 - 🌱 DevOps Enthusiast
 ```
-## Tech Stack
+<h2 align="color:white">Tech Stack</h2>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -26,7 +26,7 @@ anjy7@github
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Gitpod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)
 
-## My GitHub Stats 📈
+<h2 align="color:white">My GitHub Stats 📈</h2>
 
    <table>
   <tr>
@@ -36,18 +36,7 @@ anjy7@github
   </tr>
 </table>
 
-<h1 align="center">Let's Get Connected</h1>
 
-<div align="center">
-
-
-<a  href="https://www.linkedin.com/in/anjaneya-gupta/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/Anjy_G" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:anjyofficial@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-
-
-</div>
 
 
     
