@@ -8,8 +8,8 @@
 anjy7@github
 -------------------------
 - Full Stack, Cloud, & AI/ML
-- Google Summer of Code  @RocketChat 
-- Previous Tech Lead @ecellvit
+- Google Summer of Code @ RocketChat 
+- Previous Tech Lead @ EcellVit
 - AWS Certified Solutions Architect
 ```
 <h2 align="color:white">Tech Stack</h2>
