@@ -30,7 +30,7 @@ anjy7@github
 ![Gitpod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=%23FFAE33)
 
 
-<h2 align="color:white">My GitHub Stats 📈</h2>
+<!-- <h2 align="color:white">My GitHub Stats 📈</h2>
 
 <table>
   <tr>
@@ -42,7 +42,7 @@ anjy7@github
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjy7&theme=material-palenight" alt="anjy7" />
    </td>
 </tr>
-</table>
+</table> -->
 
 
 
